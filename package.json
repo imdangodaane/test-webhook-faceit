@@ -4,7 +4,7 @@
   "description": "Test webhook",
   "main": "index.ts",
   "scripts": {
-    "start": "nodemon src/index.ts"
+    "start": "nodemon index.ts"
   },
   "author": "nquizx",
   "license": "MIT",
